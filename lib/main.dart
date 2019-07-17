@@ -8,11 +8,11 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Stringer',
+      title: 'XML Stringer',
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: MyHomePage(title: 'Stringer'),
+      home: MyHomePage(title: 'XML Stringer'),
     );
   }
 }
